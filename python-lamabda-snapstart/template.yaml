@@ -20,7 +20,7 @@ Resources:
     Properties:
       CodeUri: hello_world/
       Handler: app.lambda_handler
-      Runtime: python3.12
+      Runtime: python3.12 # Python 3.12 is required for SnapStart
       Architectures:
       - x86_64
       AutoPublishAlias: live

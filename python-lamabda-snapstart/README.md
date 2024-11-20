@@ -37,7 +37,6 @@ To use the SAM CLI, you need the following tools.
 To build and deploy your application for the first time, run the following in your shell:
 
 ```bash
-sam build --use-container
 sam deploy --guided
 ```
 

@@ -1,6 +1,6 @@
 # lambda-snapstart-demo
 
-This repository contains demo projects of AWS Lambda SnapStart feature. Each project is using AWS SAM to deploy the application.
+This repository contains demo projects of AWS Lambda SnapStart feature. Each project is using [AWS SAM](https://aws.amazon.com/serverless/sam/) to deploy the application.
 
 ## python-lamabda-snapstart
 
